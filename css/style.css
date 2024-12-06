@@ -1,0 +1,19 @@
+table{
+  border: 3px solid gray;
+}
+td, th {
+	border: 1px solid;
+  padding: 1px;
+}
+img{
+  width: 100px;
+}
+span{
+  color: blue;
+  text-decoration: underline;
+}
+.units{
+  font-weight: bold;
+  color: black;
+  text-decoration: none;
+}
